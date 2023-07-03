@@ -6,8 +6,8 @@ This Python script allows you to scrape product data from Flipkart's search resu
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/pankajshakya627/flipkart_product_scraper.git
-   cd flipkart_product_scraper
+   git clone https://github.com/pankajshakya627/Sample_flipkart_product_scrapping.git
+   cd Sample_flipkart_product_scrapping
    ```
 
 2. Install the required Python libraries:
